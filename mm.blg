@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2019)
+Capacity: max_strings=100000, hash_size=100000, hash_prime=85009
+The top-level auxiliary file: /Users/grvashu/Documents/GitHub/nb/micromechanics/mm.aux
+The style file: unsrt.bst
+Database file #1: bibiliography.bib
+You've used 6 entries,
+            1791 wiz_defined-function locations,
+            489 strings with 4775 characters,
+and the built_in function-call counts, 1460 in all, are:
+= -- 127
+> -- 53
+< -- 0
++ -- 20
+- -- 14
+* -- 115
+:= -- 239
+add.period$ -- 18
+call.type$ -- 6
+change.case$ -- 6
+chr.to.int$ -- 0
+cite$ -- 6
+duplicate$ -- 54
+empty$ -- 150
+format.name$ -- 14
+if$ -- 316
+int.to.chr$ -- 0
+int.to.str$ -- 6
+missing$ -- 6
+newline$ -- 33
+num.names$ -- 6
+pop$ -- 6
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 21
+stack$ -- 0
+substring$ -- 150
+swap$ -- 6
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 0
+while$ -- 12
+width$ -- 7
+write$ -- 68
